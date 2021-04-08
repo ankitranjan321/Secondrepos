@@ -1,1 +1,2 @@
 hello, welcome to git. 
+we will learn more about it.
